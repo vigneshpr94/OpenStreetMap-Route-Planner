@@ -58,5 +58,3 @@ The testing executable is also placed in the `build` directory. From within `bui
 ```
 ./test
 ```
-
-# OpenStreetMap-Route-Planner
